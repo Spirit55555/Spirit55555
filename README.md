@@ -1,6 +1,6 @@
 ### Hi I'm Anders 🐧
 
-31 years old, living in Copenhagen, Denmark
+32 years old, living in Copenhagen, Denmark
 
 Projects I use my time on:
 * [PHP-Minecraft](https://github.com/Spirit55555/PHP-Minecraft)
